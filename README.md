@@ -11,8 +11,15 @@ A Clarity smart contract for managing fishing licenses on the Stacks blockchain.
 
 ## New Features
 - Contract pause mechanism for emergency situations
-- Enhanced fee management
-- Event tracking for important state changes
-- Maximum duration validation
+- Enhanced fee management with tiered pricing
+- License type validation system
+- Rate limiting for license issuance
+- Structured event tracking
+- Security improvements
+
+## Tiered Pricing
+- 15% discount for licenses >= 10 months
+- 10% discount for licenses >= 6 months
+- Standard price for shorter durations
 
 [Previous README content remains unchanged]
